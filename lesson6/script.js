@@ -79,10 +79,51 @@
 //     console.log(i);
 // }
 
-for (let i = 0; i <= 2; i++) {
-    console.log('--Tashqi loop');
+// for (let i = 0; i <= 2; i++) {
+//     console.log('--Tashqi loop');
 
-for(let j = 0; j <= 3; j++) {
-    console.log('----Ichki loop');
-}
-}
+// for(let j = 0; j <= 3; j++) {
+//     console.log('----Ichki loop');
+// }
+// }
+
+
+//  => Curry table
+
+// let num = 0;
+// for( let i = 1; i <= 10; i++) {
+
+//     for(let j = 1; j <= 10; j++) {
+//     console.log(i + "x" + j + "=" + i * j);
+//  }
+//  console.log('==========');
+// }
+
+
+// let title = 'Webbrain';
+// let result = "";
+
+// for(let i = 1; i <= 10; i++) {
+//     result = result + title
+// }
+
+// console.log(result);
+
+
+// <<<<<<<<<<<<<<< while >>>>>>>>>
+
+// let i = 1;
+
+// while(i <= 10) {
+//     console.log(i);
+//     i++
+// }
+
+// let i = 10;
+
+// while(i){
+//     i--
+//     console.log(i);
+// }
+
+
