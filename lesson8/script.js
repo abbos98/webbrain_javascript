@@ -122,3 +122,5 @@
 //  console.log(`Name: ${name} Age: ${age} Status: ${status}`);
 //}
 //example()
+
+
