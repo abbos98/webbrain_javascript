@@ -90,10 +90,28 @@
 //         // console.log(student[key]);
 //     }
 
+/////////////////////////////////////////////////////////////////////
+
+// let obj = {
+//     first: 1,
+//     second: 3,
+//     third: 5
+// }
+
+// console.log(Object.values(obj).sort());
 
 
 
+// What is function ?
+// Declaration vs Expression vs arrow functions ?
+// Defult parametr in functions ?
+// Hoisting in functions ?
 
-
-
-
+// What is object ?
+// Why object is non-primitive ?
+// How to access object ?
+// Difference between . and [""] ?
+// What is dynamic access to object value ?
+// Object.freeze() vs Object.seal() ?
+// Object.keys() vs Object.values() vs Object.entries()?
+// What is for in loop ?
